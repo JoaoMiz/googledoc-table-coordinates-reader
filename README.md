@@ -1,0 +1,1 @@
+# googledoc-table-coordinates-reader
