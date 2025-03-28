@@ -45,6 +45,4 @@ def Decodar(url):
 
 
 
-Decodar("https://docs.google.com/document/d/e"
-        "/2PACX-1vSZ1vDD85PCR1d5QC2XwbXClC1Kuh3a4u0y3VbTvTFQI53e"
-        "rafhUkGot24ulET8ZRqFSzYoi3pLTGwM/pub")
+Decodar("")
